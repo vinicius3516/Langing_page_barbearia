@@ -9,3 +9,5 @@ com:
 html/
 css/
 javascript
+
+link do projeto: https://langing-page-barbearia.vercel.app/
