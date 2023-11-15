@@ -1,2 +1,11 @@
-# Langing_page_barbearia
- 
+# Componente_QR_code
+
+# Sobre o Projeto
+
+Langing page de uma barbearia ficticia
+
+com:
+
+html/
+css/
+javascript
